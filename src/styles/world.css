@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background: black;
+    font-family: var(--font_padrao);
+}

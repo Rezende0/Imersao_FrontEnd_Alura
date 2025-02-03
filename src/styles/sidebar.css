@@ -1,15 +1,5 @@
 @charset "UTF-8";
 
-* {
-    margin: 0px;
-    padding: 0px;
-    text-decoration: none;
-    list-style: none;
-}
-
-body {
-    background: black;
-}
 
 .sidebar {
     position: fixed;
@@ -49,7 +39,6 @@ body {
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
-    font-family: "DM Sans", sans-serif;
 }
 
 .library {
@@ -77,7 +66,6 @@ body {
     border: 0px;
     font-size: 14px;
     font-weight: 700;
-    font-family: "DM Sans",sans-serif;
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -118,7 +106,6 @@ body {
 .playlist_content .text {
     padding-bottom: 14px;
     color: #fff;
-    font-family: "DM Sans",sans-serif;
 }
 
 .playlist_content .title {
@@ -138,7 +125,6 @@ body {
     border-radius: 20px;
     font-size: 12px;
     font-weight: 700;
-    font-family: "DM Sans", sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
